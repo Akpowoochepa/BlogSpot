@@ -1,0 +1,19 @@
+.Register-input {
+  height: 4em;
+  padding: 1em;
+  width: 100%;
+  text-align: center;
+  
+
+}
+
+.Register-input:focus {
+  outline-color: rgb(32, 177, 255);
+  
+}
+
+.form-control{
+  background-color: rgb(195, 192, 167);
+  border-style: 10px;
+  color: rgb(135, 13, 13);
+}

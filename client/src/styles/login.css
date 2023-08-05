@@ -1,0 +1,27 @@
+.d-flex{
+  background-color: rgb(143, 161, 183);
+}
+
+.login-input {
+    border: 3px solid;
+    height: 5em;
+    padding: 2em;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(227, 210, 209);
+  }
+  
+  .login-input:focus {
+    outline-color: rgb(217, 185, 134);
+  }
+  
+.d-grid{
+
+   margin: 10px;
+}
+
+#mb-3{
+  background-color: red;
+
+}
+

@@ -1,0 +1,12 @@
+# docker-compose.yml
+
+version: "3.8"
+services:
+  server:
+    build: ./server
+    ports:
+      - "3002:3001"
+  client:
+    build: ./client
+    ports:
+      - "3000:4000"

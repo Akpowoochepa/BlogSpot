@@ -1,0 +1,51 @@
+.BlogPost {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  .post-content {
+    width: 100%;
+    max-width: 600px;
+    height: 200px;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    resize: vertical;
+    position: relative;
+    top: 80px;
+    
+  }
+
+  .BLT
+  {
+      position: relative;
+      left: 20PX;
+      top: -20px;
+
+  }
+
+  .post-title{
+    position: inherit;
+    top: 100px;
+   
+  }
+  
+  
+  .submit-btn {
+    background-color: rgb(140, 172, 172);
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: 1rem;
+    position: relative;
+    top: 100px;
+  }
+  
+  .submit-btn:hover {
+    background-color: rgb(100, 132, 132);
+  }
+
