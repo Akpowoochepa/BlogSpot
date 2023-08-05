@@ -38,6 +38,9 @@ BlogSpot is a simple and intuitive blogging platform that enables users to creat
 - **Create Blog**: Click the "New Post" button to start writing.
 - **Edit/Delete**: Manage your existing blog posts.
 
+## Web-application Demo
+Link - https://www.youtube.com/watch?v=Iy1ut6TcAM0
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
